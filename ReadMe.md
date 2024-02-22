@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá! Me chamo Tauan Freire e estou em formação nesse mundo da programação! <br>🚀 Aqui você encontra todos os meus projetos! 🌟<br>
+👋 Olá! Me chamo Tauan Freire e estou em formação nesse incrivél mundo da programação! <br>🚀 Aqui você encontrará todos os meus projetos! 🌟<br>
 
 
 ## 🌐 Socials:
