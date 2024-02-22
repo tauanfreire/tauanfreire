@@ -1,4 +1,4 @@
-# 💫 Bem-Vindo!:
+# 💫 Bem-Vindo!
 👋 Olá! Me chamo Tauan Freire ! <br>🚀 Por aqui você encontrará todos os meus projetos! 🌟<br>
 
 
