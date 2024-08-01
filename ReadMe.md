@@ -2,7 +2,7 @@
 👋 Olá! Me chamo Tauan Freire ! <br>🚀 Acompanhem todos os meus projetos! 🌟<br>
 
 
-## 🌐 Redes Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tauanfreire.sn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tauanfreire) 
 
 # 💻 Tecnologias que uso/estudo:
