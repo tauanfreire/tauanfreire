@@ -1,5 +1,5 @@
 # 💫 Bem-Vindo!
-👋 Olá! Me chamo Tauan Freire ! <br>🚀 Acompanhem todos os meus projetos! 🌟<br>
+👋 Olá! Me chamo Tauan Freire ! <br>🚀 Acompanhe todos os meus projetos! 🌟<br>
 
 
 ## 🌐 Redes Sociais:
